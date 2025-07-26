@@ -1,4 +1,3 @@
-briefing.md
-design.bkp
-design.md
+*.md
+!README.md
 GEMINI.MD
